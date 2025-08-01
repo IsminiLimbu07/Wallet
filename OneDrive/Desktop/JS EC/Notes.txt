@@ -1,0 +1,12 @@
+Enrichment class Day - 1
+version control - maintains the version to go back to the org version.
+
+when it will be difficult to search the file it makes easier
+
+git - locally GitHub - cloud ma save garxa directly
+
+
+Enrichment class Day - 2
+
+defer - use garyo vaney html suru ma lagxa ani tespaxi matra js lagna thalxa
+defer -  tells the browser to download the script while the HTML page is being parsed, but to execute the script only after the HTML document has been fully parsed. 
