@@ -1,0 +1,134 @@
+00:00:00.006547 main     VirtualBox COM Server 7.1.4 r165100 win.amd64 (Oct 10 2024 18:57:17) release log
+00:00:00.006573 main     Log opened 2025-05-26T16:24:17.879420600Z
+00:00:00.006574 main     Build Type: release
+00:00:00.006583 main     OS Product: Windows 11
+00:00:00.006584 main     OS Release: 10.0.26100
+00:00:00.006585 main     OS Service Pack: 
+00:00:00.051797 main     DMI Product Name: 83EM
+00:00:00.081159 main     DMI Product Version: IdeaPad Slim 3 15IRH8
+00:00:00.081175 main     Firmware type: UEFI
+00:00:00.082423 main     Secure Boot: Disabled
+00:00:00.082445 main     Host RAM: 16076MB (15.7GB) total, 6814MB (6.6GB) available
+00:00:00.082454 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.082454 main     Process ID: 7936
+00:00:00.082455 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.082459 main     Windows Features:
+00:00:00.082460 main       Core Isolation (Memory Integrity): ENABLED
+00:00:00.094128          VirtualBox: object creation starts
+00:00:00.094589          Home directory: 'C:\Users\ismin\.VirtualBox'
+00:00:00.095103          Installed Drivers:
+00:00:00.121245          Loading settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.124936          usbLibGetDevices: Starting USB device enumeration
+00:00:00.146001          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&bf7f3a7&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 8
+00:00:00.154479          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&bf7f3a7&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 10
+00:00:00.160781          usbLibGetDevices: Found 4 USB devices, 0 captured
+00:00:00.160870          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0x4853)
+00:00:00.160940          USB: Unknown USB device detected (idVendor: 0x174f, idProduct: 0x2469)
+00:00:00.358425          HostDnsMonitor: initializing
+00:00:00.371436          HostDnsMonitor: updating information
+00:00:00.371537          HostDnsMonitor: old information
+00:00:00.371538            no server entries
+00:00:00.371539            no domain set
+00:00:00.371539            no search string entries
+00:00:00.371540          HostDnsMonitor: new information
+00:00:00.371540            server 1: 192.168.1.1
+00:00:00.371541            no domain set
+00:00:00.371542            no search string entries
+00:00:00.377147          VD: VDInit finished with VINF_SUCCESS
+00:00:00.380495          VirtualBox: object created
+00:00:00.576656          Saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.580545          Finished saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml"
+00:00:00.580759          Saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.583834          Finished saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml"
+00:00:00.584031          Saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.586864          Finished saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml"
+00:01:31.779949 createBase Saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:31.790006 createBase Finished saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml"
+00:01:31.822053          Platform architecture set to 'x86'
+00:01:31.822387          Platform architecture set to 'x86'
+00:01:31.822406          Platform architecture set to 'x86'
+00:01:31.826977          Platform architecture set to 'x86'
+00:01:31.835167          Saving settings file "C:\Users\ismin\VirtualBox VMs\Sasa\Sasa.vbox" with version "1.19-windows"
+00:01:31.838932          Finished saving settings file "C:\Users\ismin\VirtualBox VMs\Sasa\Sasa.vbox"
+00:01:31.839349          Saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:31.843658          Finished saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml"
+00:01:31.852626          Platform architecture set to 'x86'
+00:01:31.858237          Saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:31.862042          Finished saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml"
+00:01:31.868737          Saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:31.872152          Finished saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml"
+00:01:31.873562          Saving settings file "C:\Users\ismin\VirtualBox VMs\Sasa\Sasa.vbox" with version "1.19-windows"
+00:01:31.880462          Finished saving settings file "C:\Users\ismin\VirtualBox VMs\Sasa\Sasa.vbox"
+00:01:31.918866          Saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:01:31.923530          Finished saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml"
+00:01:32.370347          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:32.538541          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:38.510289          Launched VM: 950611792 pid: 2996 (0xbb4) frontend: GUI/Qt name: Sasa
+00:01:38.578745          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:38.604726          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:47.206857          Platform architecture set to 'x86'
+00:01:47.479631          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:47.496745          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:01:49.153498          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={70401eef-c8e9-466b-9660-45cb3e9979e4} aComponent={ExtPackManagerWrap} aText={No extension pack by the name 'Oracle VirtualBox Extension Pack' was found}, preserve=false aResultDetail=0
+00:01:49.272955          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:01:55.508477          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:01:55.511037          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:55.529773          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:01:55.535073          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+00:01:55.575739          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Starting)}, preserve=false aResultDetail=0
+00:01:55.578907          Saving settings file "C:\Users\ismin\VirtualBox VMs\Sasa\Sasa.vbox" with version "1.19-windows"
+00:01:55.582231          Finished saving settings file "C:\Users\ismin\VirtualBox VMs\Sasa\Sasa.vbox"
+00:01:55.603340          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:55.608334          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Starting)}, preserve=false aResultDetail=0
+00:01:57.171230          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:01:57.172203          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:01:57.173318          HostDnsMonitorProxy::GetDomainName: no domain set
+00:01:57.173422          HostDnsMonitorProxy::GetNameServers:
+00:01:57.173430            name server 1: 192.168.1.1
+00:01:57.173495          HostDnsMonitorProxy::GetSearchStrings:
+00:01:57.173502            no search string entries
+00:01:57.227909          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:01:57.265239          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:01:57.290420          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:02:00.109199          Saving settings file "C:\Users\ismin\VirtualBox VMs\Sasa\Sasa.vbox" with version "1.19-windows"
+00:02:00.142868          Finished saving settings file "C:\Users\ismin\VirtualBox VMs\Sasa\Sasa.vbox"
+00:02:00.152297          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:00.181138          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:02:05.748003          Saving settings file "C:\Users\ismin\VirtualBox VMs\Sasa\Sasa.vbox" with version "1.19-windows"
+00:02:05.752820          Finished saving settings file "C:\Users\ismin\VirtualBox VMs\Sasa\Sasa.vbox"
+00:02:05.766145          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:05.778912          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Running)}, preserve=false aResultDetail=0
+00:02:30.544704          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:30.556564          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:02:30.556715          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Paused)}, preserve=false aResultDetail=0
+00:02:34.398051          Saving settings file "C:\Users\ismin\VirtualBox VMs\Sasa\Sasa.vbox" with version "1.19-windows"
+00:02:34.403261          Finished saving settings file "C:\Users\ismin\VirtualBox VMs\Sasa\Sasa.vbox"
+00:02:34.499347          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:02:34.524988          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:34.555250          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is Stopping)}, preserve=false aResultDetail=0
+00:02:34.616932          Saving settings file "C:\Users\ismin\VirtualBox VMs\Sasa\Sasa.vbox" with version "1.19-windows"
+00:02:34.653510          Finished saving settings file "C:\Users\ismin\VirtualBox VMs\Sasa\Sasa.vbox"
+00:02:34.723267          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:02:34.760260          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:02:34.772896          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:34.895141          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:02:35.689804          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={The UEFI NVRAM file is not existing for this machine}, preserve=false aResultDetail=0
+00:02:35.723586          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={MachineWrap} aText={The machine is not mutable, saved or running (state is PoweredOff)}, preserve=false aResultDetail=0
+00:02:39.431875          Saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:39.466257          Finished saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml"
+00:02:39.466462          Saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:39.470424          Finished saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml"
+00:02:39.478274 DeleteVM Saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:39.487281 DeleteVM Finished saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml"
+00:02:39.499263          Saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:02:39.504042          Finished saving settings file "C:\Users\ismin\.VirtualBox\VirtualBox.xml"
+00:02:39.521805          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {e7d83441-8f1a-4f60-88f8-4f6ca1634391}}, preserve=false aResultDetail=0
+00:02:39.529582          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={Could not find a registered machine with UUID {e7d83441-8f1a-4f60-88f8-4f6ca1634391}}, preserve=false aResultDetail=0
+00:02:39.548463          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={5bfd8965-b81b-469f-8649-f717ce97a5d5} aComponent={NvramStoreWrap} aText={Loading the NVRAM store failed (VERR_PATH_NOT_FOUND)
+00:02:39.548517          }, preserve=false aResultDetail=0
+00:02:39.551188          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={bea3ef5c-de2f-4b74-aa3a-15d6249371a0} aComponent={RecordingSettingsWrap} aText={Recording not started}, preserve=false aResultDetail=0
+00:02:48.651137 main     VirtualBox: object deletion starts
+00:02:48.652887 main     HostDnsMonitor: shutting down ...
+00:02:48.653072 main     HostDnsMonitor: shut down
+00:02:48.661212 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d644ad1e-c501-4fc7-9ab6-aa6d763bc540} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:02:48.661637 main     VirtualBox: object deleted
